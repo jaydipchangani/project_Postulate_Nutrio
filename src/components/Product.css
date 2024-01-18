@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.product_main{
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+}

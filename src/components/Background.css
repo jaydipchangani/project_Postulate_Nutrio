@@ -1,0 +1,36 @@
+
+.bgdiv{
+
+    width: 100%;
+}
+
+.btn_buy{
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    width: 150px;
+    font-size: 20px ;
+    padding: 5px 20px;
+    color: white;
+    background-color: rgba(207, 27, 27, 0.932);
+    border-radius: 5px;
+    border: 0px;
+}
+
+.btn_buy a{
+    color: white;
+    text-decoration: none;
+}
+
+.btn_buy:hover{
+    background-color: #00717a;
+    text-decoration: none;
+}
+
+.bg_tagline{
+    position: absolute;
+    top: 30%;
+    right: -60%;;
+    font-size: 45px;
+    color: #3b271a;
+}

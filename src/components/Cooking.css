@@ -1,0 +1,185 @@
+.ck{
+    background-color: #00717A;
+    width: 100%;
+}
+.paper{
+    width: 100%;
+    height: auto;
+}
+
+.paperbg{
+    width: 100%;
+    height: 650px;
+    background-color: #00717A;
+    margin: 0px;
+    padding: 0px;
+}
+
+.inner_cook{
+    width: 100%;
+}
+
+.paper_p{
+    text-align: center;
+    color: white;
+}
+
+.paper_h1{
+    font-size: 45px;
+
+}
+
+.paper_h3{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.inner_cook{
+    background-color:#00717A;
+    height: 500px;
+    padding-top: 30px;
+}
+
+.cook_inner{
+    background: white;
+    color:#3b271a;
+    padding-bottom: 10px;
+}
+.cook1{
+
+    height: 400px;
+    width: 10%;
+    float: left;
+}
+
+.cook2{
+
+    height: 400px;
+    width: 17%;
+    float: left;
+    margin-left: 3%;
+}
+
+.cook_img{
+    width: 200px;
+    height: 325px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cook_btn{
+    background-color: white;
+    color: #00717A;
+    padding: 10px 20px;
+    font-size: larger;
+    width: 150px;
+    border: 0px;
+}
+
+.cook_btn:hover{
+    background-color: #01545a;
+    color: white;
+}
+
+.downpaper{
+    padding-bottom: 0px;
+}
+
+.goodness{
+    background-image: linear-gradient(white,blanchedalmond);
+    width: 100%;
+    height: 800px;
+}
+
+.good_p{
+    padding-top: 30px;
+    text-align: center;
+ 
+}
+.good_p h4{
+    font-size: 18px;
+}
+
+.good_p h1{
+    padding-top: 20px;
+    color: #01545a;
+    font-size: 50px;
+}
+
+.qunioa{
+    text-align: center;
+}
+
+.main_qunioa{
+    margin-top: 50px;
+    width: 100%;
+    height: 700px;
+}
+
+.img_qunioa{
+    
+    height: 550px;
+    width: auto;
+    margin-left: 200px;
+    float: left;
+}
+
+.qimage{
+    height: 550px;
+    width: auto;
+}
+
+.text_qunioa{
+    margin-left: 30px;
+    width: 600px;
+    float: left;
+}
+
+.text_qunioa h1{
+    color: #00717A;
+}
+
+.text_qunioa h3{
+    color: #3b271a;
+    font-size: 30px;
+    line-height: 1.36;
+    padding-top: 5px;
+}
+.qunioa_btn{
+    margin-top: 13px;
+    font-size: 18px;
+    width: 150px;
+    padding: 13px 20px;
+    background-color: #00717A;
+    color: white;
+    border: 0px;
+}
+
+.qunioa_btn:hover{
+    background-color: #3b271a;
+}
+
+.btw_cook{
+    height: 5px;
+    background-color:#00717A;
+    width: 100%;
+    margin-top: 5px;
+    border: 0px;
+}
+
+.btw_cook1{
+    height: 10px;
+    background-color:blanchedalmond;
+    width: 100%;
+    margin-top: 3px;
+    border: 0px;
+}
+
+.btw_cook2{
+    height: 14px;
+    background-color:blanchedalmond;
+    width: 100%;
+    margin-top: 8px;
+    border: 0px;
+
+}

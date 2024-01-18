@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    font-family:  ' Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.nav_fix{
+    width: 100%;
+}
+
+.discount{
+    background-color: bisque;
+    text-align: center;
+    font-size: larger;
+}
+
+.discount a{
+    text-decoration: none;
+    color: black;
+}
+.frs_nav{
+    background-color: white;
+    width: 40%;
+    height: 70px;
+    float: left;
+}
+
+.logo{
+    height: 70px;
+    width: auto;
+    padding-left: 40px;
+}
+
+.sec_nav{
+    background-color: white;
+    width: 60%;
+    height: 70px;
+    float: right;
+}
+
+.sec_nav ul{
+    padding-top: 23px;
+}
+.sec_nav ul li{
+    list-style-type: none;
+    font-size: 20px;
+    display: inline;
+    padding-left: 30px; 
+}
+
+.link_nav{
+    color: brown;
+    text-decoration: none;
+}
+
+.link_nav:hover{
+    color: yellowgreen;
+    text-decoration: underline;
+    transition: 0.5s;
+}
+
